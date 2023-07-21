@@ -1,0 +1,35 @@
+.out{
+    margin:40px auto;
+    height: 360px;
+    width:360px;
+    border: 1px solid gray;
+    padding:10px;
+    position: relative;
+}
+.i{
+    width:100%;
+    border-radius: 10px;
+}
+.discount{
+    background-color: blue;
+    position:absolute;
+    bottom:150px;
+    color:white;
+    padding:5px;
+}
+.timer{
+    background-color: white;
+    position: absolute;
+    bottom:150px;
+    color:black;
+    right:15px;
+    padding:5px;
+    border-radius: 6px;
+}
+.add{
+    border:1px solid gray;
+    padding:10px;
+    color:gray;
+    width:360px;
+    margin: -41px auto;
+}

@@ -1,0 +1,31 @@
+.outer{
+    width:900px;
+    position: relative;
+    border-radius: 10px;
+}
+.content{
+    color:white;
+    bottom:200px;
+    position:absolute;
+    left:50px;
+}
+h1{
+    margin-left:150px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button{
+    padding:10px;
+    margin-left: 70px;
+    border-radius: 10px;
+}
+.godo{
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.loc{
+    margin-right: 10px;
+}
+.mag{
+    margin-left: 8px;
+    margin-right: 8px
+}

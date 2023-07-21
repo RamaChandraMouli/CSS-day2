@@ -1,0 +1,24 @@
+.bali{
+    margin: 30px auto;
+}
+.hii{
+    width: 700px;
+    border-radius: 20px;
+    position: relative;
+}
+.content{
+    width: 500px;;
+    color:white;
+    bottom:500px;
+    left:20px;
+    position: absolute;
+    text-align: center;
+    margin-left: 20px;
+}
+button{
+    margin-top: 20px;
+    background-color: white;
+    padding:15px 20px;
+    border:none;
+    border-radius: 30px;
+}
